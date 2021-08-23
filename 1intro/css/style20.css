@@ -1,0 +1,36 @@
+*{
+  text-align: center;
+}
+.logo{
+  width: 165px;
+  height: 58px;
+  margin-top: 80px;
+}
+
+.menu{
+  font-size: 16px;
+  font-family: "Helvetica";
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.menu a{
+  color: rgb(88, 89, 91);
+}
+
+.menu span{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.now{
+  font-weight: bold;
+}
+
+.images{
+  width: 90%;
+}
+
+a{
+  text-decoration: none;
+}

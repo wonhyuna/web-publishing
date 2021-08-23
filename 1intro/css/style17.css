@@ -1,0 +1,30 @@
+#serif{
+  font-family: serif;
+}
+#sans-serif{
+  font-family: sans-serif;
+}
+
+#monospace{
+  font-family: monospace;
+}
+
+#cursive{
+  font-family: cursive;
+}
+
+#fantasy{
+  font-family: fantasy;
+}
+
+#google{
+  font-family: 'Rampart One', cursive;
+}
+
+/*
+serif: Times New Roman
+sans-serif: Arial
+monospace: Courier
+cursive: Comic Sans MS
+fantasy: Impact
+*/
